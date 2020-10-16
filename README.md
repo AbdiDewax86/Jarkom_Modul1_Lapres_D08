@@ -1,6 +1,7 @@
 # Jarkom_Modul1_Lapres_D08
 ## Display Filter
 #### 1
+![alt text](images/1.png)
 #### 2
 #### 3
 #### 4
