@@ -2,9 +2,13 @@
 ## Display Filter
 #### 1
 http.host == "testing.mekanis.me"
+
 ![alt text](images/1_1.png)
+
 Klik kanan pada salah satu hasil lalu Follow -> HTTP stream
+
 ![alt text](images/1_2.png)
+
 Ditemukan webserver adalah nginx
 #### 2
 klik File > Export Object > HTTP > pada Text Filter ketik “Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg”
