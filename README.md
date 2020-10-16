@@ -37,7 +37,7 @@ Pada salah satu hasil, cari Hypertext Transfer Protocol > Authorization
 #### 6
 ftp.request.command == STOR
 
-![alt text](images/6_1.png)
+![alt text](images/6.png)
 
 di Answer.zip klik kanan > follow > TCP stream > ubah save data as dalam bentuk raw kemudian save
 
@@ -51,7 +51,11 @@ hasil open this
 
 ![alt text](images/6_4.png)
 #### 7
+frame contains "Yes.pdf"
 ![alt text](images/7_1.png)
+
+Setelah ditemukan, klik kanan pada salah satu lalu klik Follow > TCP Stream > lalu save as raw dan save dalam bentuk .zip
+
 ![alt text](images/7_2.png)
 ![alt text](images/7_3.png)
 ![alt text](images/7_4.png)
