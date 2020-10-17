@@ -37,21 +37,27 @@ Pada salah satu hasil, cari Hypertext Transfer Protocol > Authorization
 #### 6
 ftp-data.command == "STOR Answer.zip"
 
-![alt text](images/df answer.png)
+![alt text](images/df_answer.png)
 
 di Answer.zip klik kanan > follow > TCP stream > ubah save data as dalam bentuk raw kemudian save
-![alt text](images/dwld answer.png)
+
+![alt text](images/dwld_answer.png)
 
 hasil download
+
 ![alt text](images/6_2.png)
 
 ftp-data.command == "STOR zipkey.txt"
 
-![alt text](images/ftp zipkey.png)
+![alt text](images/ftp_zipkey.png)
 
 di zipkey.txt klik kanan > follow > TCP stream > ubah save data as dalam bentuk raw kemudian save
 
-![alt text](images/dwnld zipkey.png)
+![alt text](images/dwnld_zipkey.png)
+
+hasil download
+
+![alt text](images/6_3.png)
 
 hasil open this
 
