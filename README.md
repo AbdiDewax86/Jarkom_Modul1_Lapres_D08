@@ -43,7 +43,7 @@ di Answer.zip klik kanan > follow > TCP stream > ubah save data as dalam bentuk 
 ![alt text](images/dwld answer.png)
 
 hasil download
-< img src="images/6_2.png">
+![alt text](images/6_2.png)
 
 ftp-data.command == "STOR zipkey.txt"
 
