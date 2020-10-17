@@ -42,6 +42,9 @@ ftp-data.command == "STOR Answer.zip"
 di Answer.zip klik kanan > follow > TCP stream > ubah save data as dalam bentuk raw kemudian save
 ![alt text](images/dwld answer.png)
 
+hasil download
+< img src="images/6__2.png">
+
 ftp-data.command == "STOR zipkey.txt"
 
 ![alt text](images/ftp zipkey.png)
