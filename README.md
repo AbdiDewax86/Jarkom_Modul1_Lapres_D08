@@ -35,7 +35,7 @@ Pada salah satu hasil, cari Hypertext Transfer Protocol > Authorization
 ![alt text](images/5_1.png)
 ![alt text](images/5_2.png)
 #### 6
-ftp.request.command == STOR
+ftp-data.command == "STOR Answer.zip"
 
 ![alt text](images/6.png)
 
